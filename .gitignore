@@ -75,6 +75,8 @@ local.properties
 ######################
 .gradle/
 /build/
+/pet-clinic-web/target/
+/pet-clinic-data/target/
 
 ######################
 # Package Files
