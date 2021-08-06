@@ -50,7 +50,7 @@
     </build>
 
     <scm>
-        <developerConnection>scm:git:https://github.com/gourav618/pet-clinic.git</developerConnection>
-      <tag>pet-clinic-0.0.1</tag>
+        <connection>https://github.com/gourav618/pet-clinic.git</connection>
+        <url>https://github.com/gourav618/pet-clinic</url>
   </scm>
 </project>
