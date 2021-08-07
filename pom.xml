@@ -4,7 +4,7 @@
 
     <groupId>com.spingframework</groupId>
     <artifactId>pet-clinic</artifactId>
-    <version>0.0.1</version>
+    <version>0.0.1-SNAPSHOT</version>
 
     <modules>
         <module>pet-clinic-data</module>
@@ -52,7 +52,6 @@
             </plugin>
         </plugins>
     </build>
-
     <scm>
         <developerConnection>scm:git:git@github.com:gourav618/pet-clinic.git</developerConnection>
       <tag>pet-clinic-0.0.1</tag>
