@@ -10,7 +10,7 @@ public class BaseEntity implements Serializable {
         return id;
     }
 
-    public void setId(Long id) {
+    public void setIg(Long id) {
         this.id = id;
     }
 }
