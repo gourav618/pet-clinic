@@ -1,8 +1,9 @@
 # pet-clinic
 
 my very own version of popular project by spring (search: spring-projects/spring-petclinic)
-Demonstarte using map,jpa,hibernate implementation of service, web developement using Thymeleaf, Project Lombok
-Reactive Programming using WebFlux
+
+Demonstarte using map,jpa,hibernate implementation of service, web developement using Thymeleaf, Project Lombok,
+Reactive Programming, using WebFlux
 
 ## Understanding the Spring Petclinic application with a few diagrams
 <a href="https://speakerdeck.com/michaelisvy/spring-petclinic-sample-application">See the presentation here</a>
