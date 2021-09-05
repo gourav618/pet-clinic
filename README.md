@@ -1,5 +1,5 @@
+[![CircleCI](https://circleci.com/gh/gourav618/pet-clinic/tree/main.svg?style=svg)](https://circleci.com/gh/gourav618/pet-clinic/tree/main)
 # pet-clinic
-
 my very own version of popular project by spring (search: spring-projects/spring-petclinic)
 
 Demonstarte using map,jpa,hibernate implementation of service, web developement using Thymeleaf, Project Lombok,
